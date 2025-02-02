@@ -5,7 +5,7 @@ The project we have made is a UwU code generator
 	> UwU language
 	> python
 	> javascript 
-and many-more please try all of them
+and many-more please try all of them 
 -> this project can solve many coding problem
 -> even complex programming code , like from leetcode
 -> it even recognise the code error in the program.
